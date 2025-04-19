@@ -1,4 +1,4 @@
-# -HR_Analytics_Dashboard
+# HR_Analytics_Dashboard
 Help an organization to improve employee performance and improve employee retention (reduce.attrition) by creating a HR Analytics dashboard
 
 # 📊 HR Analytics Dashboard
@@ -21,14 +21,20 @@ The goal of this project is to help an organization **enhance employee performan
 
 ### 📁 Project Files
 
-| File Name                                        | Description                                                 |
-|--------------------------------------------------|-------------------------------------------------------------|
-| `Store Sales Dataset.xlsx`                       | Raw data used for analysis                                  |
-| `Final Analysis & Dashboard With Insights.xlsx`  | Cleaned, analyzed data + interactive dashboard              |
-| `Store Analysis Dashboard.png`                   | Snapshot of the final dashboard for quick reference         |
-| `Store Sales Data Analysis Summary.pdf`          | Detailed summary of insights and analysis steps             |
+| File Name                     | Description                            |
+|------------------------------|-----------------------------------------|
+| `HR_Analytics.csv`           | Source dataset                          |
+| `HR_Analytics_Dashboard.pbix`| Power BI report file                    |
+| `BG12.jpg`                   | Dashboard background image              |
+| `Dashboard.png`              | Exported image of the dashboard         |
 
 ---
+
+## 📊 Dashboard Preview
+
+Here's a snapshot of the final interactive dashboard for quick insights:
+
+![HR_Analytics_Dashboard](Store%20Analysis%20Dashboard.png)
 
 ## 📌 Key Visuals & Insights
 
@@ -81,14 +87,3 @@ The goal of this project is to help an organization **enhance employee performan
 - Data Modeling & DAX for custom insights
 
 ---
-
-## 📁 Files
-- `ARYA.pbix`: Power BI project file.
-- `ARYA.pdf`: Dashboard summary for presentations or print.
-
----
-
-## 📌 Author
-Created by: [Your Name]  
-Date: April 2025  
-Project: HR Analytics Dashboard using Power BI
