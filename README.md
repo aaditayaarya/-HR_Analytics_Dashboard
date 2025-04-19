@@ -34,7 +34,7 @@ The goal of this project is to help an organization **enhance employee performan
 
 Here's a snapshot of the final interactive dashboard for quick insights:
 
-![HR_Analytics_Dashboard](Store%20Analysis%20Dashboard.png)
+![HR_Analytics_Dashboard](Dashboard.png)
 
 ## 📌 Key Visuals & Insights
 
